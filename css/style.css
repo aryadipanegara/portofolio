@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background-color: #000000c0;
+  background-color: #0e0e0ee6;
   color: var(--text-color);
   font-family: var(--font-primary);
 }
@@ -124,7 +124,7 @@ a {
 /* Hero */
 
 .hero {
-  background-color: #625f5fc0;
+  background-color: #181818e6;
   position: relative;
   z-index: -1;
   padding: 6rem 0;
@@ -234,7 +234,7 @@ a {
 .accordion-experience section article ul li {
   font-weight: 300;
   font-size: 16px;
-  color: #c4c4c4de;
+  color: #000000de;
   list-style: disc;
   list-style-position: inside;
 }
@@ -290,7 +290,7 @@ a {
 }
 
 .box-featured-projects .project img {
-  width: 100%;
+  width: 30%;
   height: auto;
 }
 
